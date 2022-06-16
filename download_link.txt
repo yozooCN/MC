@@ -1,0 +1,10 @@
+Minecraft 1.19 ARM Mac: https://minecraft.net
+Java 18: https://www.azul.com/downloads/?version=java-18-sts&os=macos&architecture=arm-64-bit&package=jdk
+Fabric: https://fabricmc.net/use/installer
+Sodium: https://www.curseforge.com/minecraft/mc-mods/sodium
+Iris Shaders: https://www.curseforge.com/minecraft/mc-mods/irisshaders
+FPS - Display: https://www.curseforge.com/minecraft/mc-mods/fpsdisplay
+
+Shaders:
+List of working shaders on Apple Silicon Macs:https://github.com/MoustacheOff/AppleSilicon-Minecraft-Shaders
+Sildur's Shaders: https://sildurs-shaders.github.io/downloads/
